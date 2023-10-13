@@ -140,7 +140,7 @@ public class Main {
                 "C. Emphasize peaceful, non-interventionist foreign relations.",
                 "D. Withdraw from most international commitments and alliances."));
 
-        questions.add(new Question("Which political party they affiliate with?",
+        questions.add(new Question("Which political party do you affiliate with?",
                 "A. Republican",
                 "B. Democrat",
                 "C. Green Party",
